@@ -14,4 +14,3 @@ Outfit Sync is an interactive app that helps users decide what to wear based on 
 ## 🧠 Idea Summary
 The app collects mood, weather, and event details to suggest matching outfits.  
 If an outfit isn’t in the user’s wardrobe list, it connects to Flipkart and Myntra for suggestions.
-![Outfit Sync Preview](screenshot.png)
