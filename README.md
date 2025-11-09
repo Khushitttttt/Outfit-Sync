@@ -1,6 +1,6 @@
 # Outfit Sync 👗🤖
 
-Outfit Sync is an interactive app that helps users decide what to wear based on their *mood, **weather, and **occasion*.
+Outfit Sync is an interactive app that helps users decide what to wear based on their Mood, Weather, and Occasion.
 
 ## 💡 Features
 - Smart outfit recommendations based on user inputs.
